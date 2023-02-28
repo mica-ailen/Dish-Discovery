@@ -1,4 +1,4 @@
-# Getting-recipes
+# Dish Discovery
 
 <h4>This project was created to practice using API rest.</h4>
 <p>The goal of this application is that depending on the ingredient you type, it will return recipes that have it in their ingredients and you can cook them at home with what you have.🍛 .</p>
@@ -22,4 +22,4 @@
 
 •	Make a responsive design<br>
 
-<h3>If you want to watch it live 😊:</h3> https://mica-ailen.github.io/Getting-recipes/ 
+<h3>If you want to watch it live 😊:</h3> https://mica-ailen.github.io/Dish Discovery 
